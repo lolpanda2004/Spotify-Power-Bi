@@ -43,6 +43,11 @@ Before you can run this Power BI report, ensure you have the following:
 - `Data/`: Folder containing raw data (if included in the repository).
 - `Reports/`: Folder for exported reports or additional resources.
 
+## Screenshot
+
+<img width="1199" height="803" alt="code" src="https://github.com/user-attachments/assets/a23bdcca-78be-45a9-bd70-ff0e0c1f6aec" />
+<img width="1201" height="802" alt="code2" src="https://github.com/user-attachments/assets/2f0ff671-0b89-4ac2-afa6-2639e95659b8" />
+
 ## Contributing
 
 If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. Ensure your changes do not break existing functionality and add value to the project.
